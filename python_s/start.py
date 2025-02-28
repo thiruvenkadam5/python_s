@@ -2,8 +2,8 @@
 import random
 
 #range of the values of a dice
-min_val = 1
-max_val = 6
+min_val = 5
+max_val = 20
 
 #to loop the rolling through user input
 roll_again = "yes"
